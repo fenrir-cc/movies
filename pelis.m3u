@@ -25,8 +25,7 @@ https://ok.ru/video/11732552518324
 
 #EXTINF:-1 tvg-id="tt0114746" tvg-logo="https://image.tmdb.org/t/p/w500/bXLwKCCMS2NCNlxAhSwn9HCymRl.jpg",12 monos (1995)
 https://ok.ru/video/11195886078644
-#EXTINF:-1 tvg-id="tt0114746" tvg-logo="https://image.tmdb.org/t/p/w500/bXLwKCCMS2NCNlxAhSwn9HCymRl.jpg",12 monos (1995)
-https://ok.ru/video/11195886078644
+
 #EXTINF:-1 tvg-id="tt0045197" tvg-logo="https://image.tmdb.org/t/p/w500/qnVw3CwQgHnKiOWKhAv69dsKBfG.jpg",Los arqueros del rey (1952)
 https://ok.ru/video/11015506889396
 #EXTINF:-1 tvg-id="tt0057197" tvg-logo="https://image.tmdb.org/t/p/w500/pralyD3hQjBatVBF8xVxNmyz5hv.jpg",Jason y los argonautas (1963)
@@ -37,6 +36,10 @@ https://ok.ru/video/10647393143476
 https://ok.ru/video/10595721415348
 #EXTINF:-1 tvg-id="tt0489099" tvg-logo="https://image.tmdb.org/t/p/w500/jtd5jdh3rquFMr25qoRAENwlwa7.jpg",Jumper!! (2008)
 https://ok.ru/video/10485620869812
+
+#EXTINF:-1 tvg-id="tt0120201" tvg-logo="https://image.tmdb.org/t/p/w500/rK7LafXBhHKjALYOT3jRUTlFdpk.jpg",Starship Troopers: Las brigadas del espacio (1997)
+https://ok.ru/video/10263834200756
+
 
 
 
